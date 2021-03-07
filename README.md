@@ -9,7 +9,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=white?logoWidth=60)
 
 ### Technologies
 
