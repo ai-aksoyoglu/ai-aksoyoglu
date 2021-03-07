@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Alexandra 🐣
+
 
 <!--
 **ai-aksoyoglu/ai-aksoyoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Data Scientist with a special love for Chemistry.
+- 🔭 I’m currently working on SPICED Academy projects in Berlin, Germany
+- 🌱 I’m currently learning - more about Three.js
+- 💬 Ask me about - finding a great spot to eat in Berlin spaghetti
+- ⚡ Fun fact:
+- ⚡ My current goal - reading more books and learning photography book camera_flash
+
+[![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/ai-aksoyoglu/github-readme-stats)
