@@ -11,7 +11,6 @@ __Projects done in collaboration:__ [Customer Behavior in a Supermarket](https:/
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
