@@ -1,4 +1,4 @@
-<h2><img src="./assets/hand-wave.gif" width='20'>Hey there! I'm Alexandra, a Data Scientist 💚 Chemistry.</h2>
+<h2><img src="./assets/hand-wave.gif" width='30'>Hey there! I'm Alexandra, a Data Scientist with 💚 for Chemistry.</h2>
 
 - 🔭 I’m working - on SPICED Academy projects in Berlin, Germany.
 - 🌱 I’m learning - how to build an Artificial Neural Network recognizing handwritten digits from the MNIST dataset.
