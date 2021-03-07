@@ -8,8 +8,8 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&?logoWidth=10)
-![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=white?logoWidth=10)
+![](https://img.shields.io/badge/-Python-000?&logo=python)
+![](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=white)
 
 ### Technologies
 
