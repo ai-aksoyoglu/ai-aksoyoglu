@@ -21,4 +21,4 @@ I'm a Data Scientist with a special love for Chemistry.
 - 💬 Ask me about - the best place in town for baklava ✨
 - ⚡ My current goal - beat my husband at German Scrabble, at least once 😊
 
-[![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/ai-aksoyoglu/github-readme-stats)
+[![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true)](https://github.com/ai-aksoyoglu/github-readme-stats)
