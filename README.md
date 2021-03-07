@@ -23,7 +23,7 @@
 
 __Feel free to reach out__ 🤝🏻  
 <a href="https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-4722b575"><img src="https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ai-aksoyoglu@protonmail.com"><img src="https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-D14836?style=flat&logo=ProtonMail&logoColor=white&Color=#195340"/></a>
+
 
 
 <!--
