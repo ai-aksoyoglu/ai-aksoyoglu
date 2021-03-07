@@ -20,7 +20,7 @@ I'm a Data Scientist with a special love for Chemistry.
 
 ### Projects done in collaboration
 
-[![Customer Behavior in a Supermarket](❤️ ♠️ ♣️ ♦️)](https://github.com/lenaromanenko/markov_simulation)
+[![Customer Behavior in a Supermarket](:hearts: :spades: :clubs:	:diamonds:)](https://github.com/lenaromanenko/markov_simulation)
 
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true)](https://github.com/ai-aksoyoglu/github-readme-stats)
 
