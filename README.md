@@ -22,7 +22,7 @@
 ![](https://komarev.com/ghpvc/?username=ai-aksoyoglu&color=brightgreen&label=hits+👀)
 
 __Feel free to reach out__ 🤝🏻  
-<a href="https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-4722b575/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-Connect-4722b575/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ai-aksoyoglu@protonmail.com"><img src="https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-D14836?style=flat&logo=ProtonMail&logoColor=white&color=#195340"/></a>
 
 
