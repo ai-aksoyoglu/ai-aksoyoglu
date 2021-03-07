@@ -6,6 +6,8 @@ I'm a Data Scientist with a special love for Chemistry.
 - 💬 Ask me about - the best place in town for baklava ✨
 - ⚡ My current goal - beat my husband at German Scrabble, at least once 😊
 
+__Projects done in collaboration:__ [Customer Behavior in a Supermarket](https://github.com/lenaromanenko/markov_simulation)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -17,10 +19,6 @@ I'm a Data Scientist with a special love for Chemistry.
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-
-### Projects done in collaboration
-
-![Customer Behavior in a Supermarket :hearts: :spades: :clubs:	:diamonds:](https://github.com/lenaromanenko/markov_simulation)
 
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true)](https://github.com/ai-aksoyoglu/github-readme-stats)
 
