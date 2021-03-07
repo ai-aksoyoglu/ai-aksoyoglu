@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandra 🐣
+### Hi there, I'm Alexandra 💚
 
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Data Scientist with a special love for Chemistry.
 - 🔭 I’m currently working on SPICED Academy projects in Berlin, Germany.
 - 🌱 I’m currently learning - how to build an Artificial Neural Network recognizing handwritten digits from the MNIST dataset.
-- 💬 Ask me about - the best place in town for baklava 
+- 💬 Ask me about - the best place in town for baklava ✨
 - ⚡ My current goal - beat my husband at German Scrabble, at least once 😊
 
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/ai-aksoyoglu/github-readme-stats)
