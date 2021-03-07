@@ -1,6 +1,6 @@
-<img src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Alexandra 💚</h2>
+<img src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! \
+  I'm Alexandra, a Data Scientist with 💚 for Chemistry.</h2>
 
-I'm a Data Scientist with a special love for Chemistry.
 - 🔭 I’m currently working on SPICED Academy projects in Berlin, Germany.
 - 🌱 I’m currently learning - how to build an Artificial Neural Network recognizing handwritten digits from the MNIST dataset.
 - 💬 Ask me about - the best place in town for baklava ✨
