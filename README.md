@@ -4,9 +4,7 @@
 - 🌱 I’m learning - how to build an Artificial Neural Network recognizing handwritten digits from the MNIST dataset.
 - 🎯 I'm collaborating - with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=flat&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=flat&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=flat&logo=GitHub&logoColor=white"/></a> on a [Customer Behavior Simulation](https://github.com/lenaromanenko/markov_simulation)
 - 💬 Ask me about - the best place in town for baklava ✨
-- ⚡ My current goal - win a game of German Scrabble, at least once 😊
-
-<a href="https://github.com/AlphanAksoyoglu">@AlphanAksoyoglu</a>, <a href="https://github.com/pavrmk">@pavrmk</a>, and <a href="https://github.com/lenaromanenko">@lenaromanenko</a>
+- ⚡ My current goal - win a game of German Scrabble
 
 ### Languages
 
