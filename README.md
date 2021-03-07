@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandra 💚
+<img src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Alexandra 💚</h2>
 
 I'm a Data Scientist with a special love for Chemistry.
 - 🔭 I’m currently working on SPICED Academy projects in Berlin, Germany.
@@ -6,7 +6,8 @@ I'm a Data Scientist with a special love for Chemistry.
 - 💬 Ask me about - the best place in town for baklava ✨
 - ⚡ My current goal - win a game of German Scrabble, at least once 😊
 
-__Projects done in collaboration:__ [Customer Behavior in a Supermarket](https://github.com/lenaromanenko/markov_simulation)
+### Projects done in collaboration:&nbsp;
+[Customer Behavior in a Supermarket](https://github.com/lenaromanenko/markov_simulation)
 
 ### Languages
 
@@ -23,8 +24,13 @@ __Projects done in collaboration:__ [Customer Behavior in a Supermarket](https:/
 
 ![](https://komarev.com/ghpvc/?username=ai-aksoyoglu&color=brightgreen&label=hits+👀)
 
+__Feel free to reach out__ 🤝🏻  
+<a href="https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-4722b575/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ai-aksoyoglu@protonmail.com"><img src="https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-D14836?style=flat&logo=ProtonMail&logoColor=white&labelColor=#a7ffa4&color=#a7ffa4"/></a>
+
 
 <!--
+__Feel free to reach out__ [<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-4722b575/)&nbsp;&nbsp;&nbsp;[<img alt="email" width="29px" src="assets/gmail.png" />](mailto:ai-aksoyoglu@protonmail.com) 
 **ai-aksoyoglu/ai-aksoyoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
