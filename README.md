@@ -10,7 +10,7 @@ I'm a Data Scientist with a special love for Chemistry.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
 
