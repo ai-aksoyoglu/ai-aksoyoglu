@@ -8,14 +8,14 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffffff?&logo=python)
+![MySQL](https://img.shields.io/badge/-MYSQL-ffffff?&logo=MySQL)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/-AWS-ffffff?&logo=Amazon-AWS&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-ffffff?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-ffffff?&logo=Linux&logoColor=FCC624)
 
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-aksoyoglu&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true)](https://github.com/ai-aksoyoglu/github-readme-stats)
 
