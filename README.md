@@ -31,6 +31,14 @@ __Feel free to reach out__ 🤝🏻
 __Feel free to reach out__ [<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/alexandra-irina-aksoyo%C4%9Flu-4722b575/)&nbsp;&nbsp;&nbsp;[<img alt="email" width="29px" src="assets/gmail.png" />](mailto:ai-aksoyoglu@protonmail.com) 
 **ai-aksoyoglu/ai-aksoyoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Resources: 
+https://github.com/ariasdrea/ariasdrea
+https://github.com/AVS1508
+https://github.com/ABSphreak
+https://github.com/adamalston
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
