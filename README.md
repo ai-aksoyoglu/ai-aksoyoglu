@@ -4,7 +4,7 @@
 - 🌱 I’m learning - object oriented design in Python.
 - 🎯 I'm collaborating - with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/lenaromanenko/markov_simulation)
 - 💬 Ask me about - the best place in town for baklava ✨
-- ⚡ My current goal - land my dream job 🌟
+- ⚡ My current goal - start contributing to open source code 
 
 ### Languages
 
