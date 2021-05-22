@@ -3,9 +3,9 @@
 - 🔭 I’m working - on improving the Python Scrabble game that I presented for my SPICED Academy graduation on April 1st, 2021.
 - 🌱 I’m learning - object oriented design in Python.
 - 🎯 I'm collaborating - with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/lenaromanenko/markov_simulation)
-- 👯‍♀️ I'm pair programming - with [![](https://img.shields.io/badge/-Irina-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irinabrudaru/) 
+- 👯‍♀️ I'm pair programming - with [![](https://img.shields.io/badge/-Pradeep-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-vip/) 
 - 💬 Ask me about - the best place in town for baklava ✨
-- ⚡ My current goal - start contributing to open source code 
+- ⚡ My current goal - finish reading "The Pragmatic Programmer" 📖  
 
 ### Languages
 
