@@ -1,8 +1,8 @@
 <h2><img src="./assets/hand-wave.gif" width='30'>Hey there! I'm Alexandra, a Data Scientist with 💚 for Chemistry.</h2>
 
 - 🔭 I’m working - as a volunteer for [Helping People with Visual Impairment to Easily Use Buses through Computer Vision](https://omdena.com/challenges/ai-visual-impairment/)
-- 🌱 I’m learning - computer vision 
-- 🎯 I'm collaborating - with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/AlphanAksoyoglu/supermarket_markov_simulation)
+- 🌱 I’m learning - computer vision & JavaScript
+- 🎯 I'm collaborating - with <a href="https://github.com/DevFiachra"><img src="https://img.shields.io/badge/-Devin-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> [!@Mymoria](https://www.mymoria.de/), and with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/AlphanAksoyoglu/supermarket_markov_simulation)
 - 👯‍♀️ I'm pair programming - with [![](https://img.shields.io/badge/-Pradeep-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-vip/) 
 - 💬 Ask me about - the best place in town for baklava ✨
 - ⚡ My current goal - finish reading "The Pragmatic Programmer" 📖  
@@ -24,7 +24,7 @@
 
 __Feel free to reach out__ 🤝🏻  
 [![](https://img.shields.io/badge/-Connect-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ai-aksoyoglu/)
-[![](https://img.shields.io/badge/-ai&dot;aksoyoglu@protonmail.com-505264?style=plastic&logo=ProtonMail&logoColor=white)](mailto:ai.aksoyoglu@protonmail.com)
+[![](https://img.shields.io/badge/-ai&period;aksoyoglu@protonmail.com-505264?style=plastic&logo=ProtonMail&logoColor=white)](mailto:ai.aksoyoglu@protonmail.com)
 
 <!--
 <a href="mailto:ai-aksoyoglu@protonmail.com"><img src="https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-D14836?style=splastic&logo=ProtonMail&logoColor=white&Color=#195340"/></a>
