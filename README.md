@@ -24,7 +24,7 @@
 
 __Feel free to reach out__ 🤝🏻  
 [![](https://img.shields.io/badge/-Connect-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ai-aksoyoglu/)
-[![](https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-505264?style=plastic&logo=ProtonMail&logoColor=white)](mailto:ai.aksoyoglu@protonmail.com)
+[![](https://img.shields.io/badge/-ai&dot;aksoyoglu@protonmail.com-505264?style=plastic&logo=ProtonMail&logoColor=white)](mailto:ai.aksoyoglu@protonmail.com)
 
 <!--
 <a href="mailto:ai-aksoyoglu@protonmail.com"><img src="https://img.shields.io/badge/-ai&minus;aksoyoglu@protonmail.com-D14836?style=splastic&logo=ProtonMail&logoColor=white&Color=#195340"/></a>
