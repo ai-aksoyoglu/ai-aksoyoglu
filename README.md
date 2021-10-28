@@ -1,7 +1,7 @@
 <h2><img src="./assets/hand-wave.gif" width='30'>Hey there! I'm Alexandra, a Web QA Manager with 💚 for Chemistry.</h2>
 
 - 🔭 I’m working - as a Web QA Manager for mymoria. Check out the [Stellenangebote](https://www.mymoria.de/ueber-uns/stellenangebote-werde-teil-des-teams-werde-mymorian/)
-- 🌱 I’m learning - Cypress & JavaScript
+- 🌱 I’m learning - Cypress
 - 🎯 I'm collaborating - with <a href="https://github.com/DevFiachra"><img src="https://img.shields.io/badge/-Devin-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> [@Mymoria](https://www.mymoria.de/), and with <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/AlphanAksoyoglu/supermarket_markov_simulation)
 - 👯‍♀️ I'm pair programming - with [![](https://img.shields.io/badge/-Pradeep-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-vip/) 
 - 💬 Ask me about - the best place in town for baklava ✨
