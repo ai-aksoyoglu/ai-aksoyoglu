@@ -1,11 +1,12 @@
 <h2><img src="./assets/hand-wave.gif" width='30'>Hey there! I'm Alexandra, a Web QA Manager with 💚 for Chemistry.</h2>
 
-- 🔭 I’m working - as a Web QA Manager for mymoria. Check out the [Stellenangebote](https://www.mymoria.de/ueber-uns/stellenangebote-werde-teil-des-teams-werde-mymorian/)
-- 🌱 I’m learning - [Cypress](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero), [JavaScript](https://www.udemy.com/course/modern-javascript-from-the-beginning/) and [Project Management] (https://www.coursera.org/google-certificates/project-management-certificate)
-- 🎯 I'm collaborating - with  <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/AlphanAksoyoglu/supermarket_markov_simulation)
-- 👯‍♀️ I'm pair programming - with [![](https://img.shields.io/badge/-Pradeep-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-vip/) 
+- 💻 I’m working - as a Web QA Manager for mymoria. Check out the [Stellenangebote](https://www.mymoria.de/ueber-uns/stellenangebote-werde-teil-des-teams-werde-mymorian/)
+- 🎯 I completed the 6-course, rigorous, hands-on program that covers traditional and Agile project management approaches for carrying out a project throughout it's entire life cycle. [Google Project Management Certificate](https://www.credly.com/badges/593b1d21-40c8-418e-8ab6-ecd6e923c9af)
+- 👯‍♀️ I collaborated with  <a href="https://github.com/AlphanAksoyoglu/"><img src="https://img.shields.io/badge/-Alphan-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> <a href="https://github.com/pavrmk"><img src="https://img.shields.io/badge/-Pavel-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> and <a href="https://github.com/lenaromanenko"><img src="https://img.shields.io/badge/-Lena-0077B5?style=plastic&logo=GitHub&logoColor=white"/></a> on a [Supermarket Customer Behavior Simulation](https://github.com/AlphanAksoyoglu/supermarket_markov_simulation)
+- 🌱 I’m currently collaborating on this [repo](https://github.com/benolayinka/berlin-runner) for an app that lets you [explore Berlin as a runner](https://berliner.run/)
+- 📖 I’m currently reading "[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)"
 - 💬 Ask me about - the best place in town for baklava ✨
-- ⚡ My current goal - finish reading "[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)" 📖  
+- ⚡ Fun fact: I am very good at packing 🧳
 
 ### Languages
 
